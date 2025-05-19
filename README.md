@@ -6,6 +6,7 @@ This project presents a fully interactive dashboard built using **Power BI** to 
 
 
 📈 View Post on linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7327360242852200448/
+
 📁 [.PBIX File (Google Drive)](https://drive.google.com/file/d/1gggfqlZwDr1hnj7c8Cn9WJAxcavr6SgS/view?usp=sharing)  
 📦 Dataset Source: [Kaggle - Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
